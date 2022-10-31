@@ -1,0 +1,63 @@
+.App {
+    text-align: left;
+  }
+  
+  
+  .App-header {
+    background-color:blue;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: column;
+  
+    font-size: calc(1px + 2vmin);
+    color: lightgray;
+  }
+  .top{
+    display: flex;
+    flex: 0.6;
+    margin-top: -100px;
+    margin-left: 350px;
+    
+  }
+  .photo{
+    padding-top: 80px;
+    padding-left: 110px;
+    border-radius: 10px;  
+  }
+  .p1{
+    background-color: darkblue;
+    width: 70px;
+    height: 90px;
+    left: 30px;
+    border-radius: 10px;
+  }
+  .p2{
+    background-color: darkblue;
+    padding-left: 10px;
+    border-radius: 20px;
+  }
+  .p3{
+    background-color: darkblue;
+    padding-left: 90px;
+    border-radius: 10px;
+  }
+  .name{
+    color: aliceblue;
+    padding-left: 110px;
+    font-size: 15px;
+    font-weight: 600;
+    padding-top: 70px;
+  }
+  .name1{
+    padding-left: 80px;
+  }
+  .name1 > h4 > span{
+    padding-left: 80px;
+  }
+  .name2{
+    padding-left: 80px;
+  }
+  .name2 > h3 > span{
+    padding-left: 80px;
+  }
+  
